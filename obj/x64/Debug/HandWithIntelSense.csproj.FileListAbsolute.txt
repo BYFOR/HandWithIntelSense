@@ -1,0 +1,6 @@
+D:\HandWithIntelSense\obj\x64\Debug\HandWithIntelSense.csprojAssemblyReference.cache
+D:\HandWithIntelSense\obj\x64\Debug\hands_viewer.cs.MainForm.resources
+D:\HandWithIntelSense\obj\x64\Debug\TXY.Properties.Resources.resources
+D:\HandWithIntelSense\obj\x64\Debug\HandWithIntelSense.csproj.GenerateResource.cache
+D:\HandWithIntelSense\obj\x64\Debug\HandWithIntelSense.csproj.CoreCompileInputs.cache
+D:\HandWithIntelSense\obj\x64\Debug\TXY.intel.pdb
